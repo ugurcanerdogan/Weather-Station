@@ -16,7 +16,7 @@ It is a wireless measurement center project that consists of various sensors and
 ### Receiver plan
 
 - Arduino UNO
-- nRF24L01 (as transmitter)
+- nRF24L01 (as receiver)
 - Micro Servo Motor
 - 16x2 LCD Screen
 - I2C module for LCD Screen
