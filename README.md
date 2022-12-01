@@ -5,7 +5,7 @@ It is a wireless measurement center project that consists of various sensors and
 
 - Arduino UNO
 - nRF24L01 (as transmitter)
-- 7 Segment Led
+- 7 Segment Led (common cathode)
 - DHT-11 Temparature & Humidity Sensor
 - BMP180 Temparature & Pressure Sensor
 - LM393 Light Sensor
